@@ -18,7 +18,7 @@ function Footer() {
       </div>
       <div className='w-1/2 '>
       <h1 className='font-bold text-7xl tracking-tighter '>PRESENTATIONS</h1> 
-      <div className='details font-semibold mt-10 '>
+      <div className='details mt-10 '>
         <h1 className='font-semibold mt-10 mb-5 text-xl'>S:</h1>       
         <a className='block text-xl ' href="#">Facebook</a>
         <a className='block text-xl' href="#">Twitter</a>
